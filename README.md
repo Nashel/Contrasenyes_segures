@@ -42,6 +42,7 @@ Decided to use the AES algorithm due to the necesity to use the same key to encr
 <a name="Testing"></a>
 ## Testing
 Junit used to Unit test the cryptography module:
+A mock Object for Base64 library was needed.
 <p align="center">
 <img src="img/UTest.PNG" width="600" height="300">
 </p>
