@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Safe Pass</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="save">Save</string>
+    <string name="nameForm">Identifier name in the App:</string>
+    <string name="name">Name</string>
+    <string name="passwordForm">Password:</string>
+    <string name="usernameForm">Username:</string>
+    <string name="username">Username</string>
+    <string name="setOnDate">Set on date:</string>
+
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="select_language">Select language</string>
+    <string name="language">Language:</string>
+    <string name="choose_language">Choose Language...</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="successful_delete">Password successfully deleted</string>
+    <string name="correctCreation">Successful creation</string>
+    <string name="incorrectCreation">Failed creation</string>
+    <string name="correctEdit">Successful edit</string>
+    <string name="incorrectEdit">Edit failed</string>
+    <string name="failedToRetrievePass">Failed to retrieve password data</string>
+    <string name="emptyName">Identifier can\'t be empty</string>
+    <string name="passTooShort">Password must have at least 5 characters</string>
+    <string name="copyClipboard">Copied to clipboard</string>
+    <string name="authFailed">Authentication failed</string>
+    <string name="authSucceed">Authentication succeeded</string>
+    <string name="bioLogin">Biometric login</string>
+    <string name="bioLoginText">Please log in using your biometric credential</string>
+    <string name="authError">Authentication error:</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="reproCanceled">Playback canceled</string>
+    <string name="sureReproQuestion">The password will be played on audio. Are you sure?</string>
+</resources>
